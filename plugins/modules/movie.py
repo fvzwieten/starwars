@@ -32,7 +32,7 @@ options:
         default: chronological
 
 author:
-    - Fred van Zwieten (@fvanzwie)
+    - Fred van Zwieten (@fvzwieten)
 '''
 
 EXAMPLES = '''

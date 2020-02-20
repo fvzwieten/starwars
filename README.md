@@ -1,4 +1,4 @@
-# Ansible Collection - fvanzwie.starwars
+# Ansible Collection - fvzwieten.starwars
 
 Documentation for the Ansible starwars collection.
 
